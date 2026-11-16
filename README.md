@@ -38,25 +38,7 @@ car-price-api/
 
 ---
 
-## 🛠️ Installation & Local Setup
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yoloaryan/car-price-api.git
-cd car-price-api
-```
-
-### 2. Create a Virtual Environment & Install Dependencies
-```bash
-# Create virtual environment
-python3 -m venv .venv
-source .venv/bin/activate
-
-# Install requirements
-pip install -r requirements.txt
-```
-
----
 
 ## 🚀 Running Locally
 
